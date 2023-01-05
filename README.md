@@ -31,3 +31,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amansrivastava2507&show_icons=true&locale=en" alt="amansrivastava2507" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansrivastava2507&" alt="amansrivastava2507" /></p>
+ ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amansrivastava2507&theme=chartreuse-dark)
+</div>
+<br>
+<h3>Support:</h3>
+<p><a href="https://www.buymeacoffee.com/amansrivastava">
+<br>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amansrivastava" /></a></p><br><br>
+
